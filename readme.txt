@@ -4,3 +4,5 @@ git add readme.txt
 git commit -m "1"
 3、提交至远程仓库
 git push
+4、从远程仓库更新
+git pull
